@@ -1,0 +1,517 @@
+DWHPACI_svi\Abbonamenti_Res\procedure\PJ07_ADM_CUT.AVOBS_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\PJ07_ADM_CUT.VOIBS_RW.prc  
+DWHPACI_svi\Archiviazione\pck_dwh_svecchiamento.prc  
+DWHPACI_svi\Archiviazione\ScriptCreazionePackageBody_Business.sql  
+DWHPACI_svi\Archiviazione\ScriptCreazionePackageBody_Residenziali.sql
+DWHPACI_svi\pacidw_business\Flussi_X_Interfacce\Flussi_TECH_HUB\R1D-13-0634-CreatePKG.sql 
+DWHPACI_svi\Abbonamenti_Res\procedure\ABBIN_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\AFSRC_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\AFTBS_13_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\AFTBS_14_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\ANG_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\AVOBA_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\AZFVO_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\AZOFR_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\CCCPL_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\CCESI_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\CNBBA_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\CNBCT_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\CNBPT_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\COACF_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\CSSPR_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\CTAUT_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\DIMAB_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\ESCAU_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\FORN_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\FTIBS_12_DU.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\FTIBS_12_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\FTIBS_13_RW.prc   
+DWHPACI_svi\Abbonamenti_Res\procedure\FTIBS_15_DU.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\FTIBS_15_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\FTNPL_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\FTVRI_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\FVR_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\LIMBA_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\LIMVF_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\LMNFT_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\LTAZF_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\LTTMN_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\NOTCD_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\PJ07_ADM_CUT.FTR_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\PJ07_ADM_CUT.FVPSC_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\PJ07_ADM_CUT.PSFFT_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\PJ07_ADM_CUT_STTRM_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\PRRTA_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\RCLM_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\RFIVA_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\RIMB_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\RIPBA_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\SCVSN_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\SEGCL_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\SOSPR_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\STCAU_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\STCPL_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\STTCD_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\STTLI_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\SVSKY_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\TPCNA_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\TPMDI_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\URTLZ_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\VCCPR_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\VNPRD_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\VOIBA_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\VONDC_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\procedure\VOVRI_RW.prc  
+DWHPACI_svi\Abbonamenti_Res\sql\LOAD_VCCPR_APPO.sql  
+DWHPACI_svi\ArchiviazioneListe\Create_Package_bus.sql 
+DWHPACI_svi\ArchiviazioneListe\Create_Package_cut.sql      
+DWHPACI_svi\ArchiviazioneListe\Create_PackageBody_bus.sql 
+DWHPACI_svi\ArchiviazioneListe\Create_PackageBody_cut.sql 
+DWHPACI_svi\ArchiviazioneListe\pck_dwh_l_svecch_liste_dett.prc 
+DWHPACI_svi\Cancellazione_da_PACI\BUS\DDL\Create_Procedure_Bus.sql   
+DWHPACI_svi\Cancellazione_da_PACI\RES\DDL\Create_Procedure_Cut.sql  
+DWHPACI_svi\Cancellazione_da_RW_ZFTBS\DDL\Create_Procedure.sql    
+DWHPACI_svi\Cancellazione_DataRolling\script_create_package_bus.sql 
+DWHPACI_svi\Cancellazione_DataRolling\script_create_package_cut.sql 
+DWHPACI_svi\Cancellazione_DataRolling\script_create_packagebody_bus.sql 
+DWHPACI_svi\Cancellazione_DataRolling\script_create_packagebody_cut.sql
+DWHPACI_svi\Cancellazione_Logica\Create_package_bus.sql 
+DWHPACI_svi\Cancellazione_Logica\Create_package_bus.sql 
+DWHPACI_svi\Cancellazione_Logica\Create_package_cut.sql  
+DWHPACI_svi\Cancellazione_Logica\Create_package_cut.sql  
+DWHPACI_svi\Cancellazione_Logica\Create_packagebody_bus.sql 
+DWHPACI_svi\Cancellazione_Logica\Create_packagebody_bus.sql 
+DWHPACI_svi\Cancellazione_Logica\Create_packagebody_cut.sql 
+DWHPACI_svi\Cancellazione_Logica\Create_packagebody_cut.sql 
+DWHPACI_svi\Cessione_Credito\Incsi_x_Cessioni\incsi_x_cessioni.prc 
+DWHPACI_svi\Cessione_Credito\Incsi_x_Cessioni\incsi_x_cessioni.prc 
+DWHPACI_svi\Cessione_Credito\Linee_x_Cessioni\PKG_LINEE_X_CESSIONI.sql 
+DWHPACI_svi\Cessione_Credito\Linee_x_Cessioni\PKG_LINEE_X_CESSIONI.sql 
+DWHPACI_svi\Cessione_Credito\procedure\CESS_CREDIT_M_FTR.prc 
+DWHPACI_svi\Cessione_Credito\procedure\CESS_CREDIT_S_FTR.prc 
+DWHPACI_svi\Cessione_Credito\procedure\CESS_MOBILE_FTR.prc 
+DWHPACI_svi\Cessione_Credito\procedure\FTCSM_RW.prc 
+DWHPACI_svi\Cessione_Credito\procedure\MOVCM_RW.prc  
+DWHPACI_svi\Cessione_Credito_Simulate\PJ07_ADM_BUS.CS_CESS_CREDIT.prc 
+DWHPACI_svi\Dinamo\Az_Gestionali_BUS\sql\Big_installa_pck_azgest.sql 
+DWHPACI_svi\Dinamo\Az_Gestionali_BUS\sql\Big_installa_pck_azgest.sql 
+DWHPACI_svi\Dinamo\Az_Gestionali_BUS\sql\Big_installa_pck_azgest_delta.sql 
+DWHPACI_svi\Dinamo\Az_Gestionali_RES\sql\Big_installa_pck_az_gestionali.sql 
+DWHPACI_svi\Dinamo\Az_Gestionali_RES\sql\Big_installa_pck_azgest.sql 
+DWHPACI_svi\Dinamo\Az_Gestionali_RES\sql\Big_installa_pck_azgest_delta.sql 
+DWHPACI_svi\Dinamo\Az_Gestionali_RES\sql\Big_installa_pck_fatture_gest.sql 
+DWHPACI_svi\Dinamo\FatAzioniGest_BUS\sql\Big_installa_pck_fatazgest.sql   
+DWHPACI_svi\Dinamo\FatAzioniGest_RES\sql\Big_installa_pck_fatazgest.sql 
+DWHPACI_svi\Dinamo\Fatturato_Res\sql\Big_installa_pck_fatt.sql 
+DWHPACI_svi\Dinamo\Fatture_Rate\BUS\unatantum\sql\Big_installa_pck_big_fatt_rate.sql 
+DWHPACI_svi\Dinamo\Fatture_Rate\RES\unatantum\sql\Big_installa_pck_big_fatt_rate.sql 
+DWHPACI_svi\Dinamo\Incsi\BUS\sql\Big_installa_pck_inc.sql 
+DWHPACI_svi\Dinamo\Incsi\RES\sql\Big_installa_pck_inc.sql 
+DWHPACI_svi\Dinamo\Incsi\RES\unatantum\sql\Big_installa_pck_inc.sql 
+DWHPACI_svi\Dinamo\Radiazioni\sql\Big_installa_pck_radiazioni.sql 
+DWHPACI_svi\GestioneE2E\POPOLA_FATT_UTZ_PERSONAL_F.prc 
+DWHPACI_svi\MatView\server Business slave\BUS\proc_DWH_CREATE_MAT_VIEW.sql   
+DWHPACI_svi\MatView\server Business slave\CUT\proc_DWH_CREATE_MAT_VIEW.sql 
+DWHPACI_svi\MatView\server Consumer slave\proc_DWH_CREATE_MAT_VIEW.sql 
+DWHPACI_svi\MatView\server interfaccia mter\BUS\proc_DWH_CREATE_MAT_VIEW.sql 
+DWHPACI_svi\MatView\server interfaccia mter\CUT\proc_DWH_CREATE_MAT_VIEW.sql 
+DWHPACI_svi\MONITORA_LRC_DELTA\pj07_adm_cut.MONITORA_LRC_DELTA.prc 
+DWHPACI_svi\NDC_WorkFlow_Autorizzativo\SCRIPT\mcrec_wfndc_install_proc.sql 
+DWHPACI_svi\pacidw_business\Flussi_X_Interfacce\Flussi_ITG_GRAAL\R1D-13-0644-CreatePKG.sql 
+DWHPACI_svi\pacidw_residenziali\credit_risk\CreditoTop\credit_risk_top_credito_nodup.prc 
+DWHPACI_svi\pacidw_residenziali\credit_risk\FatturatoTop\credit_risk_fatturato_top.prc
+DWHPACI_svi\pacidw_residenziali\credit_risk\FlussoCRPM\UnaTantum\create_pck_crpm.sql 
+DWHPACI_svi\pacidw_residenziali\credit_risk\FlussoCRPM\UnaTantum\create_pck_crpm.sql 
+DWHPACI_svi\pacidw_residenziali\credit_risk\FlussoCRPM\UnaTantum\create_pck_risk_fase1_credito.sql 
+DWHPACI_svi\pacidw_residenziali\credit_risk\FlussoCRPM\UnaTantum\create_pck_risk_fe1_credito.sql 
+DWHPACI_svi\pacidw_residenziali\credit_risk\FMRisk\PCK_FMRISK.sql 
+DWHPACI_svi\pacidw_residenziali\credit_risk\New\CREDIT_RISK_FATT_ROLLING_NDUP.prc
+DWHPACI_svi\pacidw_residenziali\credit_risk\week\credit_risk_credito_nodup.prc
+DWHPACI_svi\pacidw_residenziali\new_dwh\DWI_SONDE\R1C-13-0801-CreatePKG.sql 
+DWHPACI_svi\pacidw_residenziali\new_dwh\pj07_adm_bus.COMPLETAMENTO_231_MPA.prc  
+DWHPACI_svi\pacidw_residenziali\new_dwh\pj07_adm_cut.COMPLETAMENTO_231_MPA.prc 
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\ABBIN_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\DOFEM_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\FNOCE_RW.prc 
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\FNOCE_RW.prc_bk_T4 
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\PORFC_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\PRGEC_RW.prc 
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\RACR_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\RIMB_RW.prc 
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\TPORF_RW.prc 
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\UNTRG_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\VOIBS_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\VONDC_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\script\VOIBS_RW.sql  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\una_tantum\sql\LOAD_VOIBS_PH.sql
+DWHPACI_svi\Portale Cessioni TOP\BO Cessioni (Cessione_Credito)\CESS_CONSOLIDATO.prc 
+DWHPACI_svi\Portale Cessioni TOP\Dinamo\Fatturato_Bus\sql\Big_installa_pck_fatt.sql  
+DWHPACI_svi\Portale Cessioni TOP\NPL\unatantum\08_PKG_CESSIONI_FINALE.sql 
+DWHPACI_svi\Portale Cessioni TOP\NPL\unatantum\10_PKG_RIACQ_MSIVI.sql 
+DWHPACI_svi\Portale Cessioni TOP\procedure\fatt_x_ffc.prc 
+DWHPACI_svi\Portale Cessioni TOP\procedure\PJ07_ADM_BUS.CESS_CREDIT_M_FTR.prc 
+DWHPACI_svi\Portale Cessioni TOP\procedure\PJ07_ADM_BUS.CESS_CREDIT_S_FTR.prc 
+DWHPACI_svi\Portale Cessioni TOP\una_tantum\R1E-19-0890\ELAB_FATT_CEDUTE_DM.sql  
+DWHPACI_svi\Portale Cessioni TOP\una_tantum\R1E-19-0890\sp_load_tab_part.prc  
+DWHPACI_svi\Portale Convenzioni CONSIP\homeFlussoNDC\sql\create_NDC_NONRES_PORTALE_CONV_DWH.sql  
+DWHPACI_svi\Portale Convenzioni CONSIP\sql\create_FATT_PORT_CONV_DWH.sql  
+DWHPACI_svi\Portale Convenzioni CONSIP\sql\Install_Proc_Fatturato_Portale_Conv.sql 
+DWHPACI_svi\Portale Convenzioni CONSIP\sql\Install_Proc_Voc_Fatturato_Portale_Conv.sql  
+DWHPACI_svi\Portale Convenzioni CONSIP\sql\R1D-15-1217_Install_Proc.sql  
+DWHPACI_svi\Portale Convenzioni CONSIP\sql\R1D-16-0846_Install_Proc.sql  
+DWHPACI_svi\Portale Unico del CREDITO (PUC)\Svalutazioni\R1E-13-0371-CreatePKG.sql 
+DWHPACI_svi\Portale Unico del CREDITO PUC (224)\PUCCredito_Offerta\procedure\PUC_AGG_CREDITO_OFFERTA_FISSO.prc   
+DWHPACI_svi\Portale Unico del CREDITO PUC (224)\PUCCredito_Offerta\procedure\PUC_CARICA_VOCI_COLLEGAMENTO.prc 
+DWHPACI_svi\Portale Unico del CREDITO PUC (224)\PUCFatturato\procedure\P_MB_puc_fatturato_fisso_cicl_p.sql  
+DWHPACI_svi\Portale Unico del CREDITO PUC (224)\PUCFatturato\procedure\P_MB_somma_fatt_azioni_pagam_b_new.sql  
+DWHPACI_svi\procedure_res\LOAD_PILOTA_PRSFF.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AFLEG_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AFLEG_MONITORA_TEMPI_LAV.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AFLEG_VIOLA_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AFPSC_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AFSRC_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AFSRC_DWH_UPDATE.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AFSRC_ESG_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AFSRC_MONITORA_TEMPI_LAV.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AFSRC_RACS_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZFTR_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_CSSZ_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_AZFTR.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_AZFTR_X_BIM_11.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_AZFTR_X_BIM_12.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_AZFTR_X_BIM_13.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_AZFTR_X_BIM_14.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_AZFTR_X_BIM_15.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_CCSL.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_CCSL_X_BIM_11.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_CCSL_X_BIM_12.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_CCSL_X_BIM_13.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_CCSL_X_BIM_14.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_CCSL_X_BIM_15.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZIONI_GEST_CSSZ.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZNRC_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.AZNRC_RACS_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.CESSAZIONI_SOMMA.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.DLZPA_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.DLZPA_RAC_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATT_AFTBS_PAG_RITARDO_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATT_ITRI_AUT_DWH_12.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATT_MARC_COMM_MAN.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATT_MARC_COMM_RAD.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATT_MARC_COMM_RAD_12.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATT_MARC_COMM_RAD_13.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATT_MARC_COMM_RAD_14.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATT_MARC_COMM_RAD_15.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATTURE_FRM_CED_DWH_BO.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATTURE_FRM_CED_DWH_MI.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATTURE_FRM_CED_DWH_NA.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATTURE_FRM_CED_DWH_RM.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATTURE_FRM_CED_DWH_VIP.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FATTURE_X_AZIONI_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.FORN_RW.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.Lista_Afsrc_X_Commissioning.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.LISTA_AFSRC_X_COMMISSIONING_11.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.LISTA_AFSRC_X_COMMISSIONING_12.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.LISTA_AFSRC_X_COMMISSIONING_13.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.LISTA_AFSRC_X_COMMISSIONING_14.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.LISTA_AFSRC_X_COMMISSIONING_15.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.LTTMN_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.LTTR_RACS_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_CESS_PACI_CRM.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_SOLL_DWH_11.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_SOLL_DWH_12.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_SOLL_DWH_13.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_SOLL_DWH_14.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_SOLL_DWH_15.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_SOLL_DWH_CANCELLATI.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_SOSP_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_SOSP_DWH_11.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_SOSP_DWH_12.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_SOSP_DWH_13.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_SOSP_DWH_14.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.MONITORA_SOSP_DWH_15.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.NOTCRE_RAC_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.PIARA_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.PRSFF_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.PUC_FATTURATO_FISSO_CICL_P.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.PUC_FATTURATO_FISSO_VARIO_P.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RAC18_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RACR_DWH_FTVRI.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RACS_FATT_SOFF_RDZN.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RACS_FATT_SOFF_RDZN_FTVRI.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RACS02_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RACS05_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RACS09_X_COMMISSIONING.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RACS17_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RACS20_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RCLM_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RCLM_DWH_FTVRI.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RDBT_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RDST_PRP_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RDST_PRP_DWH_11.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RDST_PRP_DWH_12.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RDST_PRP_DWH_13.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RDST_PRP_DWH_14.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RDST_PRP_DWH_15.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RDST_RACS_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RDZN_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RIMBORSI_INESITATI_PLURIMI.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RIMBORSI_PLURIMI_11.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RIMBORSI_PLURIMI_12.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RIMBORSI_PLURIMI_13.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RIMBORSI_PLURIMI_14.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RIMBORSI_PLURIMI_15.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RRINF_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.RTLZ_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOLL_RAC_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOMMA_FATT_AZIONI_PAGAM_B_NEW.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOMMA_FATT_AZIONI_PAGAM_C_NEW.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOMMA_FATT_AZIONI_PAGAM_D_NEW.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOMMA_FATT_AZIONI_PAGAM_E_NEW.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOMMA_FATT_AZIONI_PAGAM_F_NEW.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOMMA_FATT_AZIONI_PAGAM_G3_BO.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOMMA_FATT_AZIONI_PAGAM_G3_MI.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOMMA_FATT_AZIONI_PAGAM_G3_NA.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOMMA_FATT_AZIONI_PAGAM_G3_RM.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOMMA_FATT_AZIONI_PAGAM_G3_VIP.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOMMA_FATT_NEW.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.SOSP_DWH.prc
+DWHPACI_svi\procedure_res\PJ07_ADM_CUT.STRANI_ABBATTI_CRDT_NEW.prc
+DWHPACI_svi\procedure_res\PORTALE_IRC_DWH.prc
+DWHPACI_svi\procedure_res\PORTALE_IRC_INTEGR_BIS_DWH.prc
+DWHPACI_svi\procedure_res\PRSFF_DWH.prc
+DWHPACI_svi\procedure_res\RDZN_DWH.prc
+DWHPACI_svi\procedure_res\REC_FATT_C_AFFIDO_DELTA.prc
+DWHPACI_svi\procedure_res\REC_FATT_C_AFFIDO_FOTO.prc
+DWHPACI_svi\procedure_res\REC_FATT_V_AFFIDO.prc
+DWHPACI_svi\procedure_res\RULE_ENGINE_PROC_11.prc
+DWHPACI_svi\procedure_res\RULE_ENGINE_PROC_12.prc
+DWHPACI_svi\procedure_res\RULE_ENGINE_PROC_13.prc
+DWHPACI_svi\procedure_res\RULE_ENGINE_PROC_14.prc
+DWHPACI_svi\procedure_res\RULE_ENGINE_PROC_15.prc
+DWHPACI_svi\procedure_res\SGNL_DWH.prc
+DWHPACI_svi\procedure_res\UPDATE_IMPT_PRT_11.prc
+DWHPACI_svi\procedure_res\UPDATE_IMPT_PRT_12.prc
+DWHPACI_svi\procedure_res\UPDATE_IMPT_PRT_13.prc
+DWHPACI_svi\procedure_res\UPDATE_IMPT_PRT_14.prc
+DWHPACI_svi\procedure_res\UPDATE_IMPT_PRT_15.prc
+DWHPACI_svi\procedure_res\UPDATE_IMPT_PRT_FTVRI.prc
+DWHPACI_svi\PUC_Dattage\puc_fatturato_mobile_cv.prc                              
+DWHPACI_svi\Reporting Consumer\Abbonamenti\procedure\ABBIN_RW.prc 
+DWHPACI_svi\Reporting Consumer\Abbonamenti\procedure\AFSRC_RW.prc  
+DWHPACI_svi\Reporting Consumer\Abbonamenti\procedure\ESCAU_RW.prc  
+DWHPACI_svi\Reporting Consumer\Abbonamenti\procedure\FNOCE_RW.prc  
+DWHPACI_svi\Reporting Consumer\Abbonamenti\procedure\FVR_RW.prc  
+DWHPACI_svi\Reporting Consumer\Abbonamenti\procedure\PJ07_ADM_CUT.FTR_RW.prc  
+DWHPACI_svi\Reporting Consumer\Abbonamenti\procedure\SKCLI_RW.prc                               
+DWHPACI_svi\Reporting Consumer\Abbonamenti\procedure\STCAU_RW.prc  
+DWHPACI_svi\Reporting Consumer\Abbonamenti\procedure\STTAR_RW.prc  
+DWHPACI_svi\Reporting Consumer\Archiviazione\Proc_Ins_Svecchiamento.sql   
+DWHPACI_svi\Reporting Consumer\Cessazioni\CESSAZIONI_NEW.prc  
+DWHPACI_svi\Reporting Consumer\Componenti aggiuntive Psaggio a Sofferenza\SQL\Install_Proc_Sofferenza.sql
+DWHPACI_svi\Reporting Consumer\Delta_Ridistribuzioni\SQL\POPOLA_DWH_L_RIDIS_RACR.sql  
+DWHPACI_svi\Reporting Consumer\Delta_Ridistribuzioni\SQL\POPOLA_DWH_L_RIDIS_RIMB.sql  
+DWHPACI_svi\Reporting Consumer\Delta_Ridistribuzioni\SQL\POPOLA_DWH_L_RIDIS_RTLZ.sql  
+DWHPACI_svi\Reporting Consumer\Delta_Ridistribuzioni\SQL\PROCEDURE_RACR_DWH.sql  
+DWHPACI_svi\Reporting Consumer\Delta_Ridistribuzioni\SQL\PROCEDURE_RIMB_DWH.sql  
+DWHPACI_svi\Reporting Consumer\Delta_Ridistribuzioni\SQL\PROCEDURE_RTLZ_DWH_PROVA.sql  
+DWHPACI_svi\Reporting Consumer\Efficacia_Consumer\Fe_a_Delta\SQL\DDL\update_descr_marc_cluster.s
+DWHPACI_svi\Reporting Consumer\Efficacia_Consumer\SQL\procedure_CESSAZIONI_2010.sql        
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\DWH_FATT_AUT_11.prc  
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\DWH_FATT_AUT_12.prc  
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\DWH_FATT_AUT_13.prc  
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\DWH_FATT_AUT_14.prc  
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\DWH_FATT_AUT_15.prc  
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\dwh_fatt_aut_prep_11.prc  
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\dwh_fatt_aut_prep_12.prc  
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\dwh_fatt_aut_prep_13.prc  
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\dwh_fatt_aut_prep_14.prc  
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\dwh_fatt_aut_prep_15.prc  
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\DWH_FATT_MAN.prc  
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\NOTCRE_RAC_DWH.prc  
+DWHPACI_svi\Reporting Consumer\Fatturato\Procedure\psaggi_sofferenza_ac.prc  
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\Liste\PROCEDURE_INC_ANOMALI_DWH.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\Liste\PROCEDURE_INC_ATRB_NOATRB_ANN_DWH_BO.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\Liste\PROCEDURE_INC_ATRB_NOATRB_ANN_DWH_MI.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\Liste\PROCEDURE_INC_ATRB_NOATRB_ANN_DWH_NA.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\Liste\PROCEDURE_INC_ATRB_NOATRB_ANN_DWH_RM.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\Liste\PROCEDURE_INC_ATRB_NOATRB_ANN_DWH_VIP.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\Segnalazioni\PROCEDURE_SGNL_DWH.sql  
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\Segnalazioni\PROCEDURE_SGNL_RAC_DWH.sql              
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\Storni\FATTURE_STRN_PRPG_DWH.sql  
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\TempiMedi\PROCEDURE_TEMPO_MED_ALIB_FASE1_INC_DWH.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB_DELTA_11_DWH.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB_DELTA_12_DWH.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB_DELTA_13_DWH.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB_DELTA_14_DWH.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB_DELTA_15_DWH.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB1_DWH.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB2_DWH.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB3_DWH.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB4_DWH.sql
+DWHPACI_svi\Reporting Consumer\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB5_DWH.sql
+DWHPACI_svi\Reporting Consumer\Inventari\Patch\patch_inventari.sql  
+DWHPACI_svi\Reporting Consumer\Inventari\Patch\procedura_upd_impt_inv_siacr.sql   
+DWHPACI_svi\Reporting Consumer\Inventari\Patch\SM_218\pkgbody_DWH_INV_CARICAMENTO.sql 
+DWHPACI_svi\Reporting Consumer\Inventari\Patch\SM_55\SQL\pck_dwh_inventario_siacr.sql 
+DWHPACI_svi\Reporting Consumer\Inventari\Patch\SM_55\SQL\proc_bonifica_impt_siacr.sql
+DWHPACI_svi\Reporting Consumer\Inventari\script\Create_Object.sql 
+DWHPACI_svi\Reporting Consumer\Inventari\script\DWH_INV_CLI_OSC.prc
+DWHPACI_svi\Reporting Consumer\Inventari\script\DWH_INV_CLI_OSC.prc
+DWHPACI_svi\Reporting Consumer\Inventari\script\PCK_DWH_INVENTARIO_PACI.prc 
+DWHPACI_svi\Reporting Consumer\Inventari\una_tantum\PCK_DWH_INVENTARIO_PACI.prc 
+DWHPACI_svi\Reporting Consumer\Inventari\una_tantum\PCK_DWH_INVENTARIO_SIACR.prc 
+DWHPACI_svi\Reporting Consumer\Inventari\una_tantum\pkgbody_DWH_INV_CARICAMENTO.prc
+DWHPACI_svi\Reporting Consumer\Inventari\unatantum\PCK_DWH_INVENTARIO_PACI.prc 
+DWHPACI_svi\Reporting Consumer\Inventari\unatantum\PCK_DWH_INVENTARIO_SIACR.prc 
+DWHPACI_svi\Reporting Consumer\Inventari\unatantum\pkgbody_DWH_INV_CARICAMENTO.prc 
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Fatturato\SQL\DWH_FATT_AUT_11_PC.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Fatturato\SQL\DWH_FATT_AUT_12_PC.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Fatturato\SQL\DWH_FATT_AUT_13_PC.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Fatturato\SQL\DWH_FATT_AUT_14_PC.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Fatturato\SQL\DWH_FATT_AUT_15_PC.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_11_pc.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_12_pc.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_13_pc.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_14_pc.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_15_pc.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Fatturato\SQL\DWH_FATT_MAN_PC.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Incassi\SQL\PC_SGNL_DWH.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Incassi\SQL\PC_TEMPO_MED_ALIB_11_DWH.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Incassi\SQL\PC_TEMPO_MED_ALIB_12_DWH.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Incassi\SQL\PC_TEMPO_MED_ALIB_13_DWH.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Incassi\SQL\PC_TEMPO_MED_ALIB_14_DWH.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Incassi\SQL\PC_TEMPO_MED_ALIB_15_DWH.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\inventario\Create_Object.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\inventario\Create_Object.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\inventario\Create_Object.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\inventario\Create_Object.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\inventario\Create_Object.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\inventario\Create_Object.sql 
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Ridistribuzioni\SQL\POPOLA_DWH_L_RIDIS_RACR.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Ridistribuzioni\SQL\POPOLA_DWH_L_RIDIS_RIMB.sql
+DWHPACI_svi\Reporting Consumer\PRIMO_CARICAMENTO\Ridistribuzioni\SQL\POPOLA_DWH_L_RIDIS_RTLZ.sql
+DWHPACI_svi\Reporting Consumer\Prodotti_Rateizzati\SQL\Proc_Prodotti_Rateizzati_DWH.sql
+DWHPACI_svi\Reporting Consumer\Prodotti_Rateizzati\una_tantum\script\Bonifica_Tel_Atvz.prc
+DWHPACI_svi\Reporting Consumer\Prodotti_Rateizzati\una_tantum\sql\create_PKG_PRODOTTI_RATEIZZATI.sql
+DWHPACI_svi\Reporting Consumer\Prodotti_Rateizzati\una_tantum\sql\create_PKG_PRODOTTI_RATEIZZATI.sql 
+DWHPACI_svi\Reporting Consumer\R1H_12_0087\Abbonamenti\SQL\VCRZN_RW.prc
+DWHPACI_svi\Reporting Consumer\R1H_12_0087\Abbonamenti\SQL\VOSVA_RW.prc
+DWHPACI_svi\Reporting Consumer\R1H_12_0087\Abbonamenti\SQL\VOVRI_RW.prc
+DWHPACI_svi\Reporting Consumer\R1H_12_0087\SQL\function_GETTRT.sql
+DWHPACI_svi\Reporting Consumer\R1H_12_0087\SQL\Proc_DWH_PSG_SOFFERENZA.sql
+DWHPACI_svi\Reporting Consumer\R1H_12_0087\SQL\Proc_DWH_RAD_SVAL.sql
+DWHPACI_svi\Reporting Consumer\R1H_12_0087\SQL\Proc_INV_X3.sql
+DWHPACI_svi\Reporting Consumer\R1H-13-0042\SQL\Proc_DWH_L_COMMISSIONING.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\Primo_Caricamento\SQL\DWH_FATT_AUT_11_PC.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\Primo_Caricamento\SQL\DWH_FATT_AUT_12_PC.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\Primo_Caricamento\SQL\DWH_FATT_AUT_13_PC.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\Primo_Caricamento\SQL\DWH_FATT_AUT_14_PC.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\Primo_Caricamento\SQL\DWH_FATT_AUT_15_PC.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\Primo_Caricamento\SQL\dwh_fatt_aut_prep_11_pc.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\Primo_Caricamento\SQL\dwh_fatt_aut_prep_12_pc.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\Primo_Caricamento\SQL\dwh_fatt_aut_prep_13_pc.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\Primo_Caricamento\SQL\dwh_fatt_aut_prep_14_pc.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\Primo_Caricamento\SQL\dwh_fatt_aut_prep_15_pc.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\Primo_Caricamento\SQL\DWH_FATT_MAN_PC.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\SQL\DWH_FATT_AUT_11.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\SQL\DWH_FATT_AUT_12.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\SQL\DWH_FATT_AUT_13.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\SQL\DWH_FATT_AUT_14.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\SQL\DWH_FATT_AUT_15.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\SQL\dwh_fatt_aut_prep_11.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\SQL\dwh_fatt_aut_prep_12.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\SQL\dwh_fatt_aut_prep_13.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\SQL\dwh_fatt_aut_prep_14.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\SQL\dwh_fatt_aut_prep_15.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\SQL\DWH_FATT_MAN.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Fatturato\SQL\NOTCRE_RAC_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\Primo_Caricamento\SQL\PC_SGNL_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\Primo_Caricamento\SQL\PC_TEMPO_MED_ALIB_11_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\Primo_Caricamento\SQL\PC_TEMPO_MED_ALIB_12_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\Primo_Caricamento\SQL\PC_TEMPO_MED_ALIB_13_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\Primo_Caricamento\SQL\PC_TEMPO_MED_ALIB_14_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\Primo_Caricamento\SQL\PC_TEMPO_MED_ALIB_15_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\Aggregati\PROC_DWH_R_INCASSI.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\Liste\PROCEDURE_INC_ANOMALI_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\Liste\PROCEDURE_INC_ATRB_NOATRB_ANN_DWH_BO.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\Liste\PROCEDURE_INC_ATRB_NOATRB_ANN_DWH_MI.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\Liste\PROCEDURE_INC_ATRB_NOATRB_ANN_DWH_NA.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\Liste\PROCEDURE_INC_ATRB_NOATRB_ANN_DWH_RM.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\Liste\PROCEDURE_INC_ATRB_NOATRB_ANN_DWH_VIP.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\Segnalazioni\PROCEDURE_SGNL_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\Segnalazioni\PROCEDURE_SGNL_RAC_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\Storni\FATTURE_STRN_PRPG_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\TempiMedi\PROCEDURE_TEMPO_MED_ALIB_FASE1_INC_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB_DELTA_11_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB_DELTA_12_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB_DELTA_13_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB_DELTA_14_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB_DELTA_15_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB1_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB2_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB3_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB4_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Incassi\SQL\TempiMedi\TEMPO_MED_ALIB5_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Ridistribuzioni\SQL\POPOLA_DWH_L_RIDIS_RACR.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Ridistribuzioni\SQL\POPOLA_DWH_L_RIDIS_RIMB.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Ridistribuzioni\SQL\POPOLA_DWH_L_RIDIS_RTLZ.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Ridistribuzioni\SQL\PROCEDURE_RACR_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Ridistribuzioni\SQL\PROCEDURE_RIMB_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\Ridistribuzioni\SQL\PROCEDURE_RTLZ_DWH_PROVA.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\SM\SM_161\PROCEDURE_RACR_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\SM\SM_161\PROCEDURE_RIMB_DWH.sql
+DWHPACI_svi\Reporting Consumer\R1R-13-0043B00\SM\SM_161\PROCEDURE_RTLZ_DWH_PROVA.sql
+DWHPACI_svi\Reporting Consumer\R2O-13-0118B00_Estrazioni per Misura Efficacia SMS\Script\R2O-13-0118B00-CreatePKG.sql 
+DWHPACI_svi\Reporting Consumer\Ridistribuzioni\SQL\PROCEDURE_RACR_DWH.sql
+DWHPACI_svi\Reporting Consumer\Ridistribuzioni\SQL\PROCEDURE_RIMB_DWH.sql
+DWHPACI_svi\Reporting Consumer\Ridistribuzioni\SQL\PROCEDURE_RTLZ_DWH_PROVA.sql
+DWHPACI_svi\Reporting Consumer\Sofferenza\Componenti aggiuntive Passaggio a Sofferenza\SQL\Install_Function_ImpRegDereg.sql
+DWHPACI_svi\Reporting Consumer\Sofferenza\Componenti aggiuntive Passaggio a Sofferenza\SQL\Install_Proc_Sofferenza_Delta.sql
+DWHPACI_svi\Reporting Consumer\Sofferenza\Componenti aggiuntive Passaggio a Sofferenza\SQL\Install_Proc_Sofferenza_Delta_New.sql
+DWHPACI_svi\Reporting Consumer\Sofferenza\SQL\procedure_DWH_R_NEW_SOC_REC_AFLEG.sql
+DWHPACI_svi\Reporting Consumer\una_tantum\AFSRC_DWH.prc
+DWHPACI_svi\Reporting Consumer\una_tantum\PKG_RULE_CREDITO.sql
+DWHPACI_svi\Reporting Consumer\una_tantum\PKG_RULE_CREDITO.sql 
+DWHPACI_svi\Reporting\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_11.sql   
+DWHPACI_svi\Reporting\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_12.sql   
+DWHPACI_svi\Reporting\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_13.sql   
+DWHPACI_svi\Reporting\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_14.sql   
+DWHPACI_svi\Reporting\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_15.sql   
+DWHPACI_svi\SQL\PKG_ENV_CHECKER.sql 
+DWHPACI_svi\Svecchiamento\BUS\Cancellazione\R1C-13-1574_create_pkg_bus.sql 
+DWHPACI_svi\Svecchiamento\BUS\Cancellazione\R1C-14-1543_create_pkg_bus.sql 
+DWHPACI_svi\Svecchiamento\RES\Cancellazione\R1C-13-1574_create_pkg_res.sql 
+DWHPACI_svi\Svecchiamento\RES\Cancellazione\R1C-14-1543_create_pkg_res.sql 
+DWHPACI_svi\Svecchiamento\SVEC_ISUD\BUS\R1C-13-2016_create_pkg_bus.sql 
+DWHPACI_svi\Svecchiamento\SVEC_ISUD\CONS\R1C-13-2016_create_pkg_cons.sql 
+DWHPACI_svi\Svecchiamento\SVEC_ISUD\PUC\R1C-15-0247_create_pkg_isud_puc.sql 
+DWHPACI_svi\Svecchiamento\SVEC_ISUD\RES\R1C-13-2016_create_pkg_res.sql 
+DWHPACI_svi\Svecchiamento\SVEC_ISUD\TOP\R1C-13-2016_create_pkg_top.sql 
+DWHPACI_svi\Svecchiamento\Tabelle_Aggregate_DRES\pkg_sve_x_fat_men.prc 
+DWHPACI_svi\una_tantum\Gae\2013-10(CS-102)\PJ07_ADM_CUT.REC_FATT_C_AFFIDO_RECUPERO.prc
+DWHPACI_svi\una_tantum\Gae\2014-05(CS_119)\PJ07_ADM_BUS.REC_FATT_AFFIDO_BUS.prc
+DWHPACI_svi\una_tantum\Gae\Bonifica Importo Imponibile XBS_BUS_RES\script\installa_proc_bus.sql
+DWHPACI_svi\una_tantum\Gae\Bonifica Importo Imponibile XBS_BUS_RES\script\installa_proc_res.sql
+DWHPACI_svi\una_tantum\Monitoraggio_Sofferenza\AFSRC_DWH_P.prc
+DWHPACI_svi\una_tantum\Monitoraggio_Sofferenza\LISTA_AFSRC_X_COMMISSIONING_P.prc
+DWHPACI_svi\una_tantum\Monitoraggio_Sofferenza\RDZN_DWH_P.prc
+DWHPACI_svi\una_tantum\Monitoraggio_Sofferenza\RDZN_PRP_DWH_P.prc
+DWHPACI_svi\una_tantum\PKG_LINEE_X_CESSIONI.prc 
+DWHPACI_svi\una_tantum\R1C-17-0669\R1E-19-0269\05_create_PKG_REP_X_GUSCI_ATTIVI.sql 
+DWHPACI_svi\una_tantum\R1D-11-0947_delete_aftbs.prc              
+DWHPACI_svi\una_tantum\R1H-17-0075\BUS\sql\install_proc_pos_affidate.sql
+DWHPACI_svi\una_tantum\R1H-17-0075\BUS\sql\install_proc_pos_affidate.sql   
+DWHPACI_svi\una_tantum\R1H-17-0075\RES\sql\install_proc_pos_affidate.sql  
+DWHPACI_svi\una_tantum\R1H-19-0002\20_create_PCK_FMRISK.sql 
+DWHPACI_svi\una_tantum\R1H-19-0012\Big_installa_pck_az_gestionali.sql 
+DWHPACI_svi\una_tantum\R1H-19-0012\Big_installa_pck_azgest_delta.sql 
+DWHPACI_svi\una_tantum\R1H-19-0012\Create_CREDIT_RISK_CREDITO_NODUP.sql
+DWHPACI_svi\una_tantum\R1H-19-0012\create_pck_crpm.sql 
+DWHPACI_svi\una_tantum\R1H-19-0012\create_pck_risk_fe1_credito.sql
+DWHPACI_svi\una_tantum\R1H-19-0048\FTEMR_RW.prc 
+DWHPACI_svi\una_tantum\R1H-19-0048\FTVRI_RW.prc  
+DWHPACI_svi\una_tantum\R1H-19-0048\LIMOB_RW.prc  
+DWHPACI_svi\una_tantum\R2F-17-0052B00\SQL\BONIFICA_DESC_PRD_ITRI_BUS.sql
+path funzione su server per scansioni
+DWHPACI_svi\Dinamo\Az_Gestionali_BUS\sql\Big_installa_pck_az_gestionali.sql

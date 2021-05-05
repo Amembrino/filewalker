@@ -1,0 +1,380 @@
+DWHPACI_svi\Abbonamenti_Res\procedure\PJ07_ADM_CUT.AVOBS_RW.prc 
+DWHPACI_svi\Abbonamenti_Res\procedure\PJ07_ADM_CUT.VOIBS_RW.prc  
+DWHPACI_svi\Archiviazione\pck_dwh_svecchiamento.prc  
+DWHPACI_svi\Archiviazione\ScriptCreazionePackageBody_Business.sql  
+DWHPACI_svi\Archiviazione\ScriptCreazionePackageBody_Residenziali.sql
+DWHPACI_svi\pacidw_business\Flussi_X_Interfacce\Flussi_TECH_HUB\R1D-13-0634-CreatePKG.sql 
+DWHPACI_svi\Abbonamenti_Bus\FTCSC_RW.prc       
+DWHPACI_svi\Abbonamenti_Bus\FTCSM_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedur e\AZFTR_RW.prc
+DWHPACI_svi\Abbonamenti_Bus\procedure\ABBIN_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\AFTBS_RW.PRC 
+DWHPACI_svi\Abbonamenti_Bus\procedure\ANAMK_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\ANG_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\AVOBS_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\CCCPL_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\CCESI_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\CSSPR_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\CTAFT_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\CTAUT_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\CTAVO_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\DIMAB_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\ESCAU_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\ESEML_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\FNOCE_RW.prc       
+DWHPACI_svi\Abbonamenti_Bus\procedure\FORN_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\FTCIG_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\FTEMR_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\FTEMR_RW.prc_bk_T4 
+DWHPACI_svi\Abbonamenti_Bus\procedure\FTIBS_DU_2.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\FTIBS_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\FTNPL_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\FTR_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\FTVRI_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\FTVRI_RW.prc_bk_T4 
+DWHPACI_svi\Abbonamenti_Bus\procedure\FVR_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\NOTCD_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\PJ07_ADM_BUS.AFSRC_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\PJ07_ADM_BUS.CNSER_DU_2.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\PJ07_ADM_BUS.CNSER_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\PJ07_ADM_BUS.FTR_RW.prc        
+DWHPACI_svi\Abbonamenti_Bus\procedure\PJ07_ADM_BUS.FVPSC_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\PJ07_ADM_BUS.PSFFT_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\PJ07_ADM_BUS.SCVSN_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\PJ07_ADM_BUS_STTRM_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\PRRTA_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\RACR_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\RCLM_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\RFIVA_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\RIMB_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\RSRIM_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\RTLZ_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\SEGCL_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\SEGMK_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\SKCLI_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\SOSPR_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\SRAPV_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\STCAU_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\STCPL_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\STTAR_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\STTRC_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\TPCEF_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\VOIBS_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\VONDC_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\VOSVA_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\procedure\VOVRI_RW.prc 
+DWHPACI_svi\Abbonamenti_Bus\sql\AVOBS_RW.sql 
+DWHPACI_svi\Abbonamenti_Bus\sql\VOIBS_RW.sql 
+DWHPACI_svi\Abbonamenti_Bus\una_tantum\sql\LOAD_AVOBS_PH.sql 
+DWHPACI_svi\Abbonamenti_Bus\una_tantum\sql\LOAD_VOIBS_PH.sql
+DWHPACI_svi\ArchiviazioneListe\Create_Package_bus.sql 
+DWHPACI_svi\ArchiviazioneListe\Create_Package_cut.sql      
+DWHPACI_svi\ArchiviazioneListe\Create_PackageBody_bus.sql 
+DWHPACI_svi\ArchiviazioneListe\Create_PackageBody_cut.sql 
+DWHPACI_svi\ArchiviazioneListe\pck_dwh_l_svecch_liste_dett.prc 
+DWHPACI_svi\Cancellazione_da_PACI\BUS\DDL\Create_Procedure_Bus.sql   
+DWHPACI_svi\Cancellazione_da_RW_ZFTBS\DDL\Create_Procedure.sql    
+DWHPACI_svi\Cancellazione_DataRolling\script_create_package_bus.sql 
+DWHPACI_svi\Cancellazione_DataRolling\script_create_package_cut.sql 
+DWHPACI_svi\Cancellazione_DataRolling\script_create_packagebody_bus.sql 
+DWHPACI_svi\Cancellazione_DataRolling\script_create_packagebody_cut.sql
+DWHPACI_svi\Cancellazione_Logica\Create_package_bus.sql 
+DWHPACI_svi\Cancellazione_Logica\Create_package_bus.sql 
+DWHPACI_svi\Cancellazione_Logica\Create_package_cut.sql  
+DWHPACI_svi\Cancellazione_Logica\Create_package_cut.sql  
+DWHPACI_svi\Cancellazione_Logica\Create_packagebody_bus.sql 
+DWHPACI_svi\Cancellazione_Logica\Create_packagebody_bus.sql 
+DWHPACI_svi\Cancellazione_Logica\Create_packagebody_cut.sql 
+DWHPACI_svi\Cancellazione_Logica\Create_packagebody_cut.sql 
+DWHPACI_svi\Cessione_Credito\Incsi_x_Cessioni\incsi_x_cessioni.prc 
+DWHPACI_svi\Cessione_Credito\Incsi_x_Cessioni\incsi_x_cessioni.prc 
+DWHPACI_svi\Cessione_Credito\Linee_x_Cessioni\PKG_LINEE_X_CESSIONI.sql 
+DWHPACI_svi\Cessione_Credito\Linee_x_Cessioni\PKG_LINEE_X_CESSIONI.sql 
+DWHPACI_svi\Cessione_Credito\procedure\CESS_CREDIT_M_FTR.prc 
+DWHPACI_svi\Cessione_Credito\procedure\CESS_CREDIT_S_FTR.prc 
+DWHPACI_svi\Cessione_Credito\procedure\CESS_MOBILE_FTR.prc 
+DWHPACI_svi\Cessione_Credito\procedure\FTCSM_RW.prc 
+DWHPACI_svi\Cessione_Credito\procedure\MOVCM_RW.prc  
+DWHPACI_svi\Cessione_Credito_Simulate\PJ07_ADM_BUS.CS_CESS_CREDIT.prc 
+DWHPACI_svi\Dinamo\Az_Gestionali_BUS\sql\Big_installa_pck_azgest.sql 
+DWHPACI_svi\Dinamo\Az_Gestionali_BUS\sql\Big_installa_pck_azgest.sql 
+DWHPACI_svi\Dinamo\Az_Gestionali_BUS\sql\Big_installa_pck_azgest_delta.sql 
+DWHPACI_svi\Dinamo\FatAzioniGest_BUS\sql\Big_installa_pck_fatazgest.sql   
+DWHPACI_svi\Dinamo\Fatture_Rate\BUS\unatantum\sql\Big_installa_pck_big_fatt_rate.sql 
+DWHPACI_svi\Dinamo\Incsi\BUS\sql\Big_installa_pck_inc.sql 
+DWHPACI_svi\Dinamo\Radiazioni\sql\Big_installa_pck_radiazioni.sql 
+DWHPACI_svi\GestioneE2E\POPOLA_FATT_UTZ_PERSONAL_F.prc 
+DWHPACI_svi\MatView\server Business slave\BUS\proc_DWH_CREATE_MAT_VIEW.sql   
+DWHPACI_svi\MatView\server Business slave\CUT\proc_DWH_CREATE_MAT_VIEW.sql 
+DWHPACI_svi\MatView\server Consumer slave\proc_DWH_CREATE_MAT_VIEW.sql 
+DWHPACI_svi\MatView\server interfaccia mter\BUS\proc_DWH_CREATE_MAT_VIEW.sql 
+DWHPACI_svi\MatView\server interfaccia mter\CUT\proc_DWH_CREATE_MAT_VIEW.sql 
+DWHPACI_svi\MONITORA_LRC_DELTA\pj07_adm_cut.MONITORA_LRC_DELTA.prc 
+DWHPACI_svi\NDC_WorkFlow_Autorizzativo\SCRIPT\mcrec_wfndc_install_proc.sql 
+DWHPACI_svi\pacidw_business\Flussi_X_Interfacce\Flussi_ITG_GRAAL\R1D-13-0644-CreatePKG.sql 
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\ABBIN_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\DOFEM_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\FNOCE_RW.prc 
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\FNOCE_RW.prc_bk_T4 
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\PORFC_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\PRGEC_RW.prc 
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\RACR_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\RIMB_RW.prc 
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\TPORF_RW.prc 
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\UNTRG_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\VOIBS_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\procedure\VONDC_RW.prc  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\script\VOIBS_RW.sql  
+DWHPACI_svi\Portale Cessioni TOP\Abbonamenti_TOP\una_tantum\sql\LOAD_VOIBS_PH.sql
+DWHPACI_svi\Portale Cessioni TOP\BO Cessioni (Cessione_Credito)\CESS_CONSOLIDATO.prc 
+DWHPACI_svi\Portale Cessioni TOP\Dinamo\Fatturato_Bus\sql\Big_installa_pck_fatt.sql  
+DWHPACI_svi\Portale Cessioni TOP\NPL\unatantum\08_PKG_CESSIONI_FINALE.sql 
+DWHPACI_svi\Portale Cessioni TOP\NPL\unatantum\10_PKG_RIACQ_MSIVI.sql 
+DWHPACI_svi\Portale Cessioni TOP\procedure\fatt_x_ffc.prc 
+DWHPACI_svi\Portale Cessioni TOP\procedure\PJ07_ADM_BUS.CESS_CREDIT_M_FTR.prc 
+DWHPACI_svi\Portale Cessioni TOP\procedure\PJ07_ADM_BUS.CESS_CREDIT_S_FTR.prc 
+DWHPACI_svi\Portale Cessioni TOP\una_tantum\R1E-19-0890\ELAB_FATT_CEDUTE_DM.sql  
+DWHPACI_svi\Portale Cessioni TOP\una_tantum\R1E-19-0890\sp_load_tab_part.prc  
+DWHPACI_svi\Portale Convenzioni CONSIP\homeFlussoNDC\sql\create_NDC_NONRES_PORTALE_CONV_DWH.sql  
+DWHPACI_svi\Portale Convenzioni CONSIP\sql\create_FATT_PORT_CONV_DWH.sql  
+DWHPACI_svi\Portale Convenzioni CONSIP\sql\Install_Proc_Fatturato_Portale_Conv.sql 
+DWHPACI_svi\Portale Convenzioni CONSIP\sql\Install_Proc_Voc_Fatturato_Portale_Conv.sql  
+DWHPACI_svi\Portale Convenzioni CONSIP\sql\R1D-15-1217_Install_Proc.sql  
+DWHPACI_svi\Portale Convenzioni CONSIP\sql\R1D-16-0846_Install_Proc.sql  
+DWHPACI_svi\Portale Unico del CREDITO (PUC)\Svalutazioni\R1E-13-0371-CreatePKG.sql 
+DWHPACI_svi\Portale Unico del CREDITO PUC (224)\PUCCredito_Offerta\procedure\PUC_AGG_CREDITO_OFFERTA_FISSO.prc   
+DWHPACI_svi\Portale Unico del CREDITO PUC (224)\PUCCredito_Offerta\procedure\PUC_CARICA_VOCI_COLLEGAMENTO.prc 
+DWHPACI_svi\Portale Unico del CREDITO PUC (224)\PUCFatturato\procedure\P_MB_puc_fatturato_fisso_cicl_p.sql  
+DWHPACI_svi\Portale Unico del CREDITO PUC (224)\PUCFatturato\procedure\P_MB_somma_fatt_azioni_pagam_b_new.sql  
+DWHPACI_svi\procedure_bus\azioni_gest_azftr.prc 
+DWHPACI_svi\procedure_bus\azioni_gest_azftr.prc  
+DWHPACI_svi\procedure_bus\azioni_gest_azftr_bus.prc
+DWHPACI_svi\procedure_bus\azioni_gest_azftr_bus.prc 
+DWHPACI_svi\procedure_bus\azioni_gest_ccsl.prc 
+DWHPACI_svi\procedure_bus\azioni_gest_ccsl.prc  
+DWHPACI_svi\procedure_bus\azioni_gest_ccsl_bus.prc
+DWHPACI_svi\procedure_bus\azioni_gest_ccsl_bus.prc 
+DWHPACI_svi\procedure_bus\DWH_CREDITO_CEDUTO.prc
+DWHPACI_svi\procedure_bus\DWH_CREDITO_CEDUTO.prc   
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AFLEG_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AFLEG_DWH.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AFLEG_MONITORA_TEMPI_LAV.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AFLEG_MONITORA_TEMPI_LAV.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AFPSC_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AFPSC_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AFSRC_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AFSRC_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AFSRC_ESG_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AFSRC_ESG_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AFSRC_MONITORA_TEMPI_LAV.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AFSRC_MONITORA_TEMPI_LAV.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AZIONI_GEST_AZFTR.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AZIONI_GEST_AZFTR.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AZIONI_GEST_CCSL.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AZIONI_GEST_CCSL.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AZNRC_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.AZNRC_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CESS_CREDIT_M_FTR.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CESS_CREDIT_M_FTR.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CESS_CREDIT_S_FTR.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CESS_CREDIT_S_FTR.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CESS_PACI_CRM_BUS_X_MOVE.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CESS_PACI_CRM_BUS_X_MOVE.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CESSAZIONI_2009.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CESSAZIONI_2009.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CESSAZIONI_PACI_CRM_BUS.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CESSAZIONI_PACI_CRM_BUS.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CREDIT_RISK_CREDITO.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CREDIT_RISK_CREDITO.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CREDIT_RISK_RADIATO_DELTA.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CREDIT_RISK_RADIATO_DELTA.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CRMA_PRESCREENING_PESATO_NEW.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.CRMA_PRESCREENING_PESATO_NEW.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.DIMAB_RW.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.DIMAB_RW.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_DWH_DUP.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_DWH_DUP.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_PAL_SAN_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_PAL_SAN_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_PAL_SAN_DWH_DUP.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_PAL_SAN_DWH_DUP.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_PREP_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_PREP_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_PREP_DWH_DUP.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_PREP_DWH_DUP.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_PREP_PAL_SAN_DUP.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_PREP_PAL_SAN_DUP.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_PREP_PAL_SAN_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_AUT_PREP_PAL_SAN_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_MAN_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_MAN_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_MAN_DWH_DUP.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_MAN_DWH_DUP.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_MAN_PAL_SAN_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_MAN_PAL_SAN_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_MAN_PAL_SAN_DWH_DUP.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.FATT_ITRI_MAN_PAL_SAN_DWH_DUP.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.INC_ATRB_ANN_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.INC_ATRB_ANN_DWH.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.INC_ATRB_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.INC_ATRB_DWH.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.INC_STATO_ATRB_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.INC_STATO_ATRB_DWH.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.INC_STATO_NO_ATRB_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.INC_STATO_NO_ATRB_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.LISTA_AFSRC_X_COMMISSIONING.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.LISTA_AFSRC_X_COMMISSIONING.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.LTTMN_CT_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.LTTMN_CT_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.LTTMN_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.LTTMN_DWH.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.LTTR_RACS_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.LTTR_RACS_DWH.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.MOBILE_GG_SCAD.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.MOBILE_GG_SCAD.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.MONITORA_CESS_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.MONITORA_RDST.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.MONITORA_SOFF_CARICO.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.MONITORA_SOFF_CARICO.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.MONITORA_SOFF_VARIO.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.MONITORA_SOLL_DWH_16.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.MONITORA_SOSP_DWH_16.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.monitoraggio_sofferenza.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.monitoraggio_sofferenza.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.MONITORAGGIO_SOFFERENZA_VARIO.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.MONITORAGGIO_SOFFERENZA_VARIO.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.PRSFF_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.PUC_AGG_CREDITO_OFFERTA_FISSO.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.PUC_AGG_CREDITO_OFFERTA_FISSO.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.PUC_FATTURATO_FISSO_CICL_P.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.PUC_FATTURATO_FISSO_CICL_P.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.PUC_FATTURATO_FISSO_VARIO_P.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.PUC_FATTURATO_FISSO_VARIO_P.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.PUC_FATTURATO_MOBILE_CV.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.PUC_FATTURATO_MOBILE_CV.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.PUC_FATTURATO_MOBILE_PROD.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.PUC_FATTURATO_MOBILE_PROD.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RACR_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RACS09_X_COMMISSIONING.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RACS09_X_COMMISSIONING.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RCLM_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RDBT_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RDBT_DWH.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RDZN_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RDZN_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RDZN_PRP_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RDZN_PRP_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.REC_FATT_C_AFFIDO_DELTA.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.REC_FATT_C_AFFIDO_DELTA.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.REC_FATT_C_AFFIDO_FOTO.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.REC_FATT_C_AFFIDO_FOTO.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.REC_FATT_V_AFFIDO.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.REC_FATT_V_AFFIDO.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RRINF_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RRINF_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RTLZ_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RTLZ_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RTLZ_DWH_PROVA.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.RTLZ_DWH_PROVA.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.SOMMA_LRC_MAGGIO_2009.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.SOMMA_LRC_MAGGIO_2009.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.SOSP_DWH.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.SOSP_DWH.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.STRANI_ABBATTI_CRDT_NEW.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.STRANI_ABBATTI_CRDT_NEW.prc 
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.TEMPO_MED_ALIB_DELTA_DWH_A.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.TEMPO_MED_ALIB_DELTA_DWH_A.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.TEMPO_MED_ALIB_DELTA_DWH_B.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS.TEMPO_MED_ALIB_DELTA_DWH_B.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS_ESTRAZIONE_X_NPRC.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_BUS_ESTRAZIONE_X_NPRC.prc  
+DWHPACI_svi\procedure_bus\PJ07_ADM_CUT.DIMAB_RW.prc
+DWHPACI_svi\procedure_bus\PJ07_ADM_CUT.DIMAB_RW.prc  
+DWHPACI_svi\procedure_bus\PUC_CARICA_VOCI_COLLEG_RES.prc
+DWHPACI_svi\procedure_bus\PUC_CARICA_VOCI_COLLEG_RES.prc  
+DWHPACI_svi\procedure_bus\PUC_CARICA_VOCI_COLLEGAMENTO.prc
+DWHPACI_svi\procedure_bus\PUC_CARICA_VOCI_COLLEGAMENTO.prc  
+DWHPACI_svi\procedure_bus\PUC_FATT_FISSO_CICL_P_RES.prc
+DWHPACI_svi\procedure_bus\PUC_FATT_FISSO_CICL_P_RES.prc  
+DWHPACI_svi\procedure_bus\PUC_FATT_FISSO_VARIO_P_RES.prc
+DWHPACI_svi\procedure_bus\PUC_FATT_FISSO_VARIO_P_RES.prc  
+DWHPACI_svi\procedure_bus\PUC_FISSO_VARIO.prc
+DWHPACI_svi\procedure_bus\PUC_FISSO_VARIO.prc 
+DWHPACI_svi\procedure_bus\PUC_FISSO_VARIO_RES.prc
+DWHPACI_svi\procedure_bus\PUC_FISSO_VARIO_RES.prc  
+DWHPACI_svi\procedure_bus\RACR_DWH.prc
+DWHPACI_svi\procedure_bus\RACR_DWH.prc 
+DWHPACI_svi\procedure_bus\RDST_RACS_DWH.prc
+DWHPACI_svi\procedure_bus\RDST_RACS_DWH.prc  
+DWHPACI_svi\procedure_bus\RIMB_DWH_CLI.prc
+DWHPACI_svi\procedure_bus\RIMB_DWH_CLI.prc 
+DWHPACI_svi\procedure_bus\RIMB_DWH_CLI1.prc
+DWHPACI_svi\procedure_bus\RIMB_DWH_CLI1.prc  
+DWHPACI_svi\procedure_bus\RTLZ_DWH_PROVA.prc
+DWHPACI_svi\procedure_bus\RTLZ_DWH_PROVA.prc 
+DWHPACI_svi\procedure_bus\RULE_ENGINE_CANALI_INCASSO.prc
+DWHPACI_svi\procedure_bus\RULE_ENGINE_CANALI_INCSO.prc  
+DWHPACI_svi\procedure_bus\RULE_ENGINE_PROC.prc
+DWHPACI_svi\procedure_bus\RULE_ENGINE_PROC.prc  
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZ_PAG_B_NEW_RES.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZ_PAG_C_NEW_RES.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZ_PAG_D_NEW_RES.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZ_PAG_E_NEW_RES.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZ_PAG_F_NEW_RES.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZ_PAG_G3_BO_RES.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZ_PAG_G3_MI_RES.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZ_PAG_G3_NA_RES.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZ_PAG_G3_RM_RES.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZ_PAG_G3_VIP_RES.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZIONI_PAGAM_B_NEW.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZIONI_PAGAM_B_NEW.prc  
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZIONI_PAGAM_C_NEW.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZIONI_PAGAM_D_NEW.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZIONI_PAGAM_E_NEW.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZIONI_PAGAM_F_NEW.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_AZIONI_PAGAM_G3_NEW.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_NEW.prc
+DWHPACI_svi\procedure_bus\SOMMA_FATT_NEW_RES.prc
+DWHPACI_svi\procedure_bus\UPDATE_FORN_DWH.prc
+DWHPACI_svi\procedure_bus\UPDATE_IMPT_PRT.prc
+DWHPACI_svi\procedure_bus\UPDATE_IMPT_PRT_FTVRI.prc                            
+DWHPACI_svi\Reporting\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_11.sql   
+DWHPACI_svi\Reporting\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_12.sql   
+DWHPACI_svi\Reporting\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_13.sql   
+DWHPACI_svi\Reporting\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_14.sql   
+DWHPACI_svi\Reporting\PRIMO_CARICAMENTO\Fatturato\SQL\dwh_fatt_aut_prep_15.sql   
+DWHPACI_svi\SQL\PKG_ENV_CHECKER.sql 
+DWHPACI_svi\Svecchiamento\BUS\Cancellazione\R1C-13-1574_create_pkg_bus.sql 
+DWHPACI_svi\Svecchiamento\BUS\Cancellazione\R1C-14-1543_create_pkg_bus.sql 
+DWHPACI_svi\Svecchiamento\SVEC_ISUD\BUS\R1C-13-2016_create_pkg_bus.sql 
+DWHPACI_svi\Svecchiamento\SVEC_ISUD\CONS\R1C-13-2016_create_pkg_cons.sql 
+DWHPACI_svi\Svecchiamento\SVEC_ISUD\PUC\R1C-15-0247_create_pkg_isud_puc.sql 
+DWHPACI_svi\Svecchiamento\SVEC_ISUD\TOP\R1C-13-2016_create_pkg_top.sql 
+DWHPACI_svi\Svecchiamento\Tabelle_Aggregate_DRES\pkg_sve_x_fat_men.prc 
+DWHPACI_svi\una_tantum\Gae\2013-10(CS-102)\PJ07_ADM_CUT.REC_FATT_C_AFFIDO_RECUPERO.prc
+DWHPACI_svi\una_tantum\Gae\2014-05(CS_119)\PJ07_ADM_BUS.REC_FATT_AFFIDO_BUS.prc
+DWHPACI_svi\una_tantum\Gae\Bonifica Importo Imponibile XBS_BUS_RES\script\installa_proc_bus.sql
+DWHPACI_svi\una_tantum\Gae\Bonifica Importo Imponibile XBS_BUS_RES\script\installa_proc_res.sql
+DWHPACI_svi\una_tantum\Monitoraggio_Sofferenza\AFSRC_DWH_P.prc
+DWHPACI_svi\una_tantum\Monitoraggio_Sofferenza\LISTA_AFSRC_X_COMMISSIONING_P.prc
+DWHPACI_svi\una_tantum\Monitoraggio_Sofferenza\RDZN_DWH_P.prc
+DWHPACI_svi\una_tantum\Monitoraggio_Sofferenza\RDZN_PRP_DWH_P.prc
+DWHPACI_svi\una_tantum\PKG_LINEE_X_CESSIONI.prc 
+DWHPACI_svi\una_tantum\R1C-17-0669\R1E-19-0269\05_create_PKG_REP_X_GUSCI_ATTIVI.sql 
+DWHPACI_svi\una_tantum\R1D-11-0947_delete_aftbs.prc              
+DWHPACI_svi\una_tantum\R1H-17-0075\BUS\sql\install_proc_pos_affidate.sql
+DWHPACI_svi\una_tantum\R1H-17-0075\BUS\sql\install_proc_pos_affidate.sql   
+DWHPACI_svi\una_tantum\R1H-19-0002\20_create_PCK_FMRISK.sql 
+DWHPACI_svi\una_tantum\R1H-19-0012\Big_installa_pck_az_gestionali.sql 
+DWHPACI_svi\una_tantum\R1H-19-0012\Big_installa_pck_azgest_delta.sql 
+DWHPACI_svi\una_tantum\R1H-19-0012\Create_CREDIT_RISK_CREDITO_NODUP.sql
+DWHPACI_svi\una_tantum\R1H-19-0012\create_pck_crpm.sql 
+DWHPACI_svi\una_tantum\R1H-19-0012\create_pck_risk_fe1_credito.sql
+DWHPACI_svi\una_tantum\R1H-19-0048\FTEMR_RW.prc 
+DWHPACI_svi\una_tantum\R1H-19-0048\FTVRI_RW.prc  
+DWHPACI_svi\una_tantum\R1H-19-0048\LIMOB_RW.prc  
+DWHPACI_svi\una_tantum\R2F-17-0052B00\SQL\BONIFICA_DESC_PRD_ITRI_BUS.sql
+path funzione su server per scansioni
+DWHPACI_svi\Dinamo\Az_Gestionali_BUS\sql\Big_installa_pck_az_gestionali.sql
