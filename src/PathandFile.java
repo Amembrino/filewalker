@@ -8,17 +8,24 @@ import java.util.Scanner;
 public class PathandFile {
 
 	
-	public static void associaFILEaPATH() throws IOException {
+	public static String associaFILEaPATH() throws IOException {
 		List<String> paths =new ArrayList<>();
     	List<String> nomeProc =new ArrayList<>();
-    	paths = LukeFileWalker.trovaFile();
-    	  for(String Filepath:paths) {
+    	String nomeProceduraTrovata = null;
+    	//riempie l'araraylist con i vari paths
+    	paths = LukeFileWalker.trovapath();
+    	
+    	for(String Filepath:paths) {
 //     		  System.out.println(Filepath.toString());
     		  nomeProc= Contastringhe.trovanelfile(""+File.separator+Filepath );
     		  if (!(nomeProc.isEmpty())) {
     			  for (int i=0; i<nomeProc.size(); i++) {
-            		  System.out.println(Filepath.toString().substring(59)+"	 	 				"+nomeProc.get(i).toString());
-
+    				  if (!(nomeProc.get(i).equalsIgnoreCase("BODY"))) {
+    					  nomeProceduraTrovata=nomeProc.get(i).toString();
+//    					  System.out.println(Filepath.toString().substring(59)+"	 	 				"+nomeProc.get(i).toString());
+  
+    				  }
+            		  
         		  }
   
     		  }
@@ -27,13 +34,14 @@ public class PathandFile {
 //
 //    		  }
     	  }
+		return  nomeProceduraTrovata;
 	}
 	
-	public static List<String>  leggiUnaRigaPerVolta() throws IOException {
+	public static List<String>  leggiUnaRigaPerVolta(String nomefile) throws IOException {
  		String nextWord = null;
  		List<String> paths =new ArrayList<>();
 		//leggo dal file con la lista dei nomi di fies
-       	try (Scanner scannerInput = new Scanner(new File("pathCesstop"))) {
+       	try (Scanner scannerInput = new Scanner(new File( nomefile))) {
 
 	 	        while (scannerInput.hasNext() ) {
 	 	        	 
@@ -50,12 +58,11 @@ public class PathandFile {
 	public static void  paragon() throws IOException {
  		String nextWord = null;
  		List<String> nomePath =new ArrayList<>();
- 		 nomePath = leggiUnaRigaPerVolta();
+ 		 nomePath = leggiUnaRigaPerVolta("pathres");
  		
- 		 HashMap<String, String> mappadiconfronto;
- 		mappadiconfronto = new HashMap<String, String>();
+ 		 
  		
-		try (Scanner scannerInput = new Scanner(new File("cessTOP"))) {
+		try (Scanner scannerInput = new Scanner(new File("dres"))) {
 				
  	        while (scannerInput.hasNext()) { //fino alla fine del file 
 // 	        	leggo la prima parola
@@ -66,8 +73,9 @@ public class PathandFile {
 		 	        		String patto=nomePath.get(i);   // estrai l'elemenro iesimo
 		 	        	// confronta l'elemento iesimo con la parola letta
 		 	        		//per ogni elemento nell'array si cerca la parola letta
-		 	        		if (patto.toLowerCase().contains( nextWord.toLowerCase().trim())) { // se iesimo elemento contiene parolafissa
-		 	        			 System.out.println( nextWord+ "                                 " +patto ); 
+		 	        		if (patto.toLowerCase().contains( nextWord.substring(0, nextWord.indexOf('.') ).toLowerCase().trim())) { // se iesimo elemento contiene parolafissa
+		 	        		 
+ 		 	        			System.out.println( nextWord+ "                                 " +patto ); 
 		 	        			 trov=true;
 		 	        			i++;
 //		 	        			if (scannerInput.hasNext()) {
@@ -76,10 +84,9 @@ public class PathandFile {
 	  	 	                   			 
 		 	        		} 
 		 	        		else  {//la parola fissata in nextword non è contenuta in patto
-//		 	        			mappadiconfronto.put(nextWord, "non trovata");
 		 	        			i++;
 		 	        			 if (  i==nomePath.size() && !trov) {
-		 	        				 System.out.println(nextWord+"                        non trovata         ") ; 
+		 	        				 System.out.println(nextWord+"                                 no riscontro         ") ; 
 		 	        			 
 		 	        			 }
 		 	        			 
@@ -88,7 +95,6 @@ public class PathandFile {
 	 	        	}
 	              
 	        }
-// 	        System.out.println(mappadiconfronto);
 		}
 }
 	

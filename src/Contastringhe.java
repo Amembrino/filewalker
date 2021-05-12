@@ -29,9 +29,9 @@ public class Contastringhe {
 	}
 	 
 	static ArrayList<String> trovanelfile(String filenome) throws FileNotFoundException {
+		String nome_procedura =null;
 		ArrayList<String> nomeProc = new ArrayList<String>();
-//		String inizialpath="C:\\sviluppoMetoda\\analisi fortify 2020\\PACI-DWH\\DWHPACI\\T6\\DWHPACI_svi";
-//		try (Scanner scannerInput = new Scanner(new File(inizialpath+filenome))) {
+ //		try (Scanner scannerInput = new Scanner(new File(inizialpath+filenome))) {
 		try (Scanner scannerInput = new Scanner(new File(filenome))) {
 
 		//	      String currentLine = "";
@@ -58,8 +58,9 @@ public class Contastringhe {
 		                	 if (nextWord3.equalsIgnoreCase("REPLACE")){
 		                		 String nextWord4 = scannerInput.next();
 		                		 if (nextWord4.equalsIgnoreCase("PROCEDURE") || nextWord4.equalsIgnoreCase("function")|| nextWord4.equalsIgnoreCase("PACKAGE")){
-//		                			 count++;
-		                			 String nome_procedura = scannerInput.next();
+		                			 	 
+		                			  
+		                			 	  nome_procedura = scannerInput.next();
 //		                			 System.out.println(  nome_procedura.toString().trim()   );
 		                			 
 		                			 nomeProc.add(nome_procedura.trim()) ;

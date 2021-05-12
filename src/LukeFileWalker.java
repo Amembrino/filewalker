@@ -27,13 +27,16 @@ public class LukeFileWalker {
 	
 	
 	static	String  percorso="C:\\sviluppoMetoda\\analisi fortify 2020\\PACI-DWH\\DWHPACI\\T6\\DWHPACI_svi";
-
-	static List<String> trovaFile() throws IOException{
+	//	static	String  percorso="C:\\sviluppoMetoda\\analisi fortify 2020\\PACI-DWH\\DWHPACI\\T6\\baseline";
+	static List<String> trovapath() throws IOException{
 //		
   		
 		List<String> patto =new ArrayList<>();
-		 try ( Stream<Path> paths = Files.walk(Paths.get(Iniziale+percorso), 5)) {
-	         paths.map(path -> path.toString()).filter(f -> f.endsWith(".sql")||f.endsWith(".prc") )
+//		 try ( Stream<Path> paths = Files.walk(Paths.get(Iniziale+percorso), 5)) {
+		try ( Stream<Path> paths = Files.walk(Paths.get( percorso), 5)) {
+//	         paths.map(path -> path.toString()).filter(f -> f.endsWith(".sql")||f.endsWith(".prc") )
+	         paths.map(path -> path.toString()).filter(f ->  f.endsWith(".prc")||f.endsWith(".pkg")   )
+
 	         .collect(Collectors.toCollection(() -> patto));
 	        // .forEach(System.out::println);
 	        // addToList(patto,paths);
